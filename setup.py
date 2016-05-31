@@ -1,5 +1,5 @@
 from setuptools import setup
-from Range import __version__
+from rangeplus import __version__
 
 setup(
     name = 'rangeplus',
