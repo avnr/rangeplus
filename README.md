@@ -26,7 +26,7 @@ Range(20, None, -7)
 Fraction(7, 6), Fraction(4, 3))
 ```
 
-- Use the `&` operator to calculate the intersection of ranges:
+- Use the `&` operator to calculate the intersection (overlap) of ranges:
 
 ```
 >>> Range(1, 100, 3) & Range(2, 100, 4)
