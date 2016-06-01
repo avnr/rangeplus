@@ -120,9 +120,6 @@ Please be encouraged to offer additional test cases which you believe should be 
 Install with `pip install rangeplus`, or copy `rangeplus.py` to your project (a single file with no
 dependencies), or clone the project with `git clone https://github.com/avnr/rangeplus`.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4UBXPG5PBJ76J)
-Your financial support of this project will be highly appreciated!
-
 ### License
 
 MIT License.
