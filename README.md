@@ -100,7 +100,8 @@ Range(20, -1, -1)
 ```
 
 - Intersection is not guaranteed to return valid results if the `Range` was initialized with
-non-integer values.
+non-integer values, please try in advance your specific use cases. It would be great if you
+could share your conclusion.
 
 ### Testing and Compatability
 
